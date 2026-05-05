@@ -1,0 +1,16 @@
+{
+  "name": "Creator Studio AI",
+  "description": "All-in-one AI platform for content creators, designers, and entrepreneurs. Features viral content generation, AI design, channel analysis, and business management.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "AI Content Generation",
+    "Design Analysis",
+    "Social Media Analysis",
+    "Business Management",
+    "User Authentication",
+    "Subscription System"
+  ]
+}
